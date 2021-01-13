@@ -1,0 +1,29 @@
+<style>
+p {color: red}
+#red {color: red}
+
+#blue {color: blue}
+#green {color: green}
+
+#big {font-size: x-large;}
+#tiny {font-size:x-small}
+
+#centered {text-align: center}
+
+#bold {font-weight: bold;}
+#font {font-family: fantasy;}
+
+.multiple {font-size: x-large;
+    color:orange;
+    font-weight: bold;
+}
+
+
+.styledFont {font-size: small;
+    color: palevioletred;
+    font-family: cursive;}
+
+#styledImage {border: powderblue;
+        border-width: .5in;
+        border-style: groove;
+    }
